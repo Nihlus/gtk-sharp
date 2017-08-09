@@ -30,7 +30,6 @@ using System;
 
 namespace Cairo
 {
-	[Serializable]
 	public enum SubpixelOrder
 	{
 		Default,

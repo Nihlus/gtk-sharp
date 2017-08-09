@@ -31,7 +31,6 @@ using System;
 
 namespace Cairo
 {
-	[Serializable]
 	public enum LineCap
 	{
 		Butt,

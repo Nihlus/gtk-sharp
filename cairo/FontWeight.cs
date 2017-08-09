@@ -32,7 +32,6 @@ using System;
 
 namespace Cairo
 {
-	[Serializable]
 	public enum FontWeight
 	{
 		Normal,

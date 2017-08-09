@@ -34,7 +34,6 @@ using System;
 
 namespace Cairo
 {
-	[Serializable]
 	public enum Status
 	{
 		Success = 0,
